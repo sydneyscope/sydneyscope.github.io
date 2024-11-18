@@ -1,0 +1,7 @@
+name: "Social Conflict and Political Economy Workshop Series"
+navbar:
+  title: "Sydney SCoPE Workshop Series"
+  left:
+    - text: "SCoPE"
+      href: index.html
+output_dir: "."
