@@ -3,5 +3,9 @@ navbar:
   title: "Sydney SCoPE Workshop Series"
   left:
     - text: "SCoPE"
-      href: index.html
+      menu:
+      - text: "1st Workshop"
+        href: scope1.html
+      - text: "2nd Workshop"
+        href: index.html
 output_dir: "."
