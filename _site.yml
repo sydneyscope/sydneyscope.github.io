@@ -7,5 +7,7 @@ navbar:
       - text: "1st Workshop"
         href: scope1.html
       - text: "2nd Workshop"
+        href: scope2.html
+      - text: "3rd Workshop"
         href: index.html
 output_dir: "."
