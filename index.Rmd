@@ -6,24 +6,92 @@ title: "3rd SCoPE Workshop"
 
 *University of Sydney, 31 March - 1 April 2026*
 
-[Call for Papers](documents/SCoPE_Call.pdf)
+The workshop will take place in Seminar Room 203, R.D. Watt Building (A04), Camperdown (main) campus.
 
-We invite submissions of papers or extended abstracts for the 3rd Social Conflict and Political Economy (SCoPE) workshop, scheduled for 31 March – 1 April 2026 at the University of Sydney campus. This two-day workshop aims to provide a platform for disseminating research and fostering new collaborative relationships among scholars at various career stages.
+## Programme 
 
-## Submission 
+### DAY 1: 31 MARCH 2026
 
-Please email papers or extended abstracts to scope.conference@sydney.edu.au by midnight (EST) on 15 January 2026.
+9:30–10:00 Morning Tea
 
-## Format
+10:00–10:45 **Invited Talk I**
 
-Each day of the workshop will feature up to six presentations, with ample time for discussion, Q&A, and networking.
+-	Political Accountability and the Returns to Peace – Joris Mueller (NUS)
 
-## Invited Speakers
+10:45–11:00 Break
 
-- Adeline Delavande (UTS)
-- Jean-Francois Maystadt (UCLouvain & Lancaster)
-- Joris Mueller (NUS)
-- Sarah Walker (UNSW)
+11:00–12:30 **Session 1: Identity**
+
+1.	The Economic Costs of Xenophobia – Nixon Chekenya (Texas Tech University)
+2.	Women's Empowerment from Property to Political and Labor Rights – Yueyan Zhou (University of Auckland)
+3.	Winning Stomachs and Minds: Ethnic Restaurants and Anti-Immigrant Sentiment in the US – Marco Lecci (Monash University)
+
+12:30–1:30 Lunch
+
+1:30–2:15 **Invited Talk II**
+
+-	Subjective Divorce Risk and Intra-Household Allocation – Adeline Delavande (UTS)
+2:15–2:30 Break
+
+2:30–4:00 **Session 2: Institutions**
+
+1.	Handcuffing the Grabbing Hand: Evidence from China's Anticorruption Campaign – Quoc-Anh Do (Monash University)
+2.	Raj of the Royals: Princes, Political Power, and Economic Development in India – Rohit Joseph (Ashoka University)
+3.	Trading Swords for Courts: Legal Capacity and Civil Conflict – Jingyuan Guo (NUS)
+
+4:00–4:15 Afternoon Tea
+
+4:15–5:45 **Session 3: Terrorism**
+
+1.	Mobile Internet and Terrorism: Evidence from Developing Countries – Sundar Ponnusamy (Deakin University)
+2.	Terrorism and Voting: Evidence from the Death of Osama bin Laden – Chungeun Yoon (KDI School)
+3.	The Naxalite Conflict in India: Does Ethnic Distance Matter – Prasad Bhattacharya (Deakin University)
+
+6:30 – Dinner (by invitation)
+
+### DAY 2: 1 APRIL 2026
+
+9:30–10:00 Morning Tea
+
+10:00–10:45 **Invited Talk III**
+
+-	Nativist Fertility Rhetoric and the Political Economy of Immigration: Evidence from 19th Century US – Sarah Walker (UNSW)
+
+10:45–11:00 Break
+
+11:00–12:30 **Session 4: History**
+
+1.	Jewish Deportation in Wartime France – Pauline Grosjean (UNSW)
+2.	Repression, Religion, and Regime Loyalty in Nazi Germany – Alexander De Juan (Osnabrück University)
+3.	Missions Misaligned: Colonial Legacies of Social Conflict in Africa – Ashani Amarasinghe (University of Sydney)
+
+12:30–1:30 Lunch
+
+1:30–2:15 **Invited Talk IV**
+
+-	The Political Impact of Refugees in Africa – Jean-François Maystadt (UCLouvain)
+
+2:15–2:30 Break
+
+2:30–4:00 **Session 5: Conflict**
+
+1.	Aid, Interrupted: Conflict Dynamics Following the USAID Suspension in Africa – David Ubilava (University of Sydney)
+2.	Internet Quality, Digital Disruptions, and Critical Junctions – Lukas Wellner (Monash University)
+3.	Combative Identity and Intimate Partner Violence in Sub-Saharan Africa – Ha Nguyen (Curtin University)
+
+4:00–4:15 Afternoon Tea
+
+4:15–5:45 **Session 6: Information**
+
+1.	Scaling Conflict Research: Ordinal Coding of Escalation Using Large Language Models – Sascha Nanlohy (Institute for Economics and Peace)
+2.	Mapping Violence Perceptions through YouTube Comments: A New Approach to Real-Time Violence Monitoring – Francesco Bailo (University of Sydney)
+3.	Public Preferences for Economic Reforms Are Shaped More by Design Than Cost – Christopher Hoy (University of Melbourne)
+
+
+
+## Registration
+
+Fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSccNdyxvhlbZs0q_PoErxH9xL3fTcdpYlJBHYZCpjf5k45m9w/viewform) to register for and stay up-to-date with any news and updates related to the workshop.
 
 ## Organizers 
 David Ubilava, Ashani Amarasinghe, Justin Hastings, and Andrey Vasnev
